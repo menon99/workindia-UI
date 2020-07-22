@@ -1,4 +1,4 @@
-#### Workindia Chat UI/UX Design
+## Workindia Chat UI/UX Design
 
 ### Steps to run
 
